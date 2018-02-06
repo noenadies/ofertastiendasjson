@@ -1,7 +1,7 @@
 {
     "productos": [
-       { "Productos": "p1", "Web": "webp1"  },
-       { "Productos": "p2", "Web": "webp2"  }
+       { "Productos": "p1", "Web": "https://www.youtube.com/watch?v=yoCtHylYx1E&feature=youtu.be"  },
+       { "Productos": "p2", "Web": "https://sites.google.com/view/ofe/p%C3%A1gina-principal?authuser=1"  }
     
         
     
